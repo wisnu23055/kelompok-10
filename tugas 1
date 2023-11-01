@@ -1,9 +1,9 @@
 print('=' * 70)
-print("Selamat datang di pizzahut!")
+print("Selamat datang di pizzahut!!")
 
 #daftar menu pizza
 print('=' * 70)
-print("Silahkan pilih menu pizza dibawah ini")
+print("Silahkan pilih menu pizza dibawah ini!")
 print("1. frankfurter bbq")
 print("2. meat monsta")
 print("3. super supreme")
@@ -11,7 +11,7 @@ print("4. super supreme chicken")
 
 #daftar pilihan crust
 print('=' * 70)
-print("Silahkan pilih crust dibawah ini")
+print("Silahkan pilih crust dibawah ini!")
 print('1. pan')
 print('2. stuffedcrust cheese')
 print('3. stuffedcrust sausage')
@@ -20,7 +20,7 @@ print('5. crown crust')
 
 #daftar pilihan ukuran
 print('=' * 70)
-print("Silahkan pilih ukurannya")
+print("Silahkan pilih ukurannya!")
 print('1. personal')
 print('2. regular')
 print('3. large')
@@ -30,7 +30,7 @@ menu = input("Silahkan pilih menunya (pilih dengan masukkan nama pizza): ")
 crust = input("Silahkan pilih crust nya (pilih dengan masukkan nama crust): ")
 ukuran = input("Silahkan pilih ukuran pizza nya (pilih dengan masukkan nama ukuran): ")
 
-harga_pizza = 0  # Inisialisasi harga pizza
+harga_pizza = 0  #inisialisasi harga pizza
 
 # Set harga pizza berdasarkan pilihan menu
 if (menu == 'frankfurter bbq') and (crust == 'pan') and (ukuran == 'personal'):
