@@ -110,13 +110,3 @@ elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran
 elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran == 'regular'):
     harga_pizza += 117273
 elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran == 'large'):
-    harga_pizza += 155455
-elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'personal'):
-    harga_pizza += 57273
-elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'regular'):
-    harga_pizza += 123637
-elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'large'):
-    harga_pizza += 164546
-elif (menu == 'super supreme') and (crust == 'crown crust') and (ukuran == 'personal'):
-    harga_pizza += 55455
-elif (menu == 'super supreme') and (crust == 'crown crust') and (ukuran == 'regular'):
