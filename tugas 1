@@ -54,3 +54,69 @@ elif (menu == 'frankfurter bbq') and (crust == 'stuffedcrust sausage') and (ukur
 elif (menu == 'frankfurter bbq') and (crust == 'cheesy bites') and (ukuran == 'personal'):
     harga_pizza += 57273
 elif (menu == 'frankfurter bbq') and (crust == 'cheesy bites') and (ukuran == 'regular'):
+   harga_pizza += 123637
+elif (menu == 'frankfurter bbq') and (crust == 'cheesy bites') and (ukuran == 'large'):
+    harga_pizza += 164546
+elif (menu == 'frankfurter bbq') and (crust == 'crown crust') and (ukuran == 'personal'):
+    harga_pizza += 55455
+elif (menu == 'frankfurter bbq') and (crust == 'crown crust') and (ukuran == 'regular'):
+    harga_pizza += 120910
+elif (menu == 'frankfurter bbq') and (crust == 'crown crust') and (ukuran == 'large'):
+    harga_pizza += 160000
+elif (menu == 'meat monsta') and (crust == 'pan') and (ukuran == 'personal'):
+    harga_pizza += 43637
+elif (menu == 'meat monsta') and (crust == 'pan') and (ukuran == 'regular'):
+    harga_pizza += 100910
+elif (menu == 'meat monsta') and (crust == 'pan') and (ukuran == 'large'):
+    harga_pizza += 132728
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust cheese') and (ukuran == 'personal'):
+    harga_pizza += 55455
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust cheese') and (ukuran == 'regular'):
+    harga_pizza += 120910
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust cheese') and (ukuran == 'large'):
+    harga_pizza += 160000
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust sausage') and (ukuran == 'personal'):
+    harga_pizza += 52728
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust sausage') and (ukuran == 'regular'):
+    harga_pizza += 117273
+elif (menu == 'meat monsta') and (crust == 'stuffedcrust sausage') and (ukuran == 'large'):
+    harga_pizza += 155455
+elif (menu == 'meat monsta') and (crust == 'cheesy bites') and (ukuran == 'personal'):
+    harga_pizza += 57273
+elif (menu == 'meat monsta') and (crust == 'cheesy bites') and (ukuran == 'regular'):
+    harga_pizza += 123637
+elif (menu == 'meat monsta') and (crust == 'cheesy bites') and (ukuran == 'large'):
+    harga_pizza += 164546
+elif (menu == 'meat monsta') and (crust == 'crown crust') and (ukuran == 'personal'):
+    harga_pizza += 55455
+elif (menu == 'meat monsta') and (crust == 'crown crust') and (ukuran == 'regular'):
+    harga_pizza += 120910
+elif (menu == 'meat monsta') and (crust == 'crown crust') and (ukuran == 'large'):
+    harga_pizza += 160000
+elif (menu == 'super supreme') and (crust == 'pan') and (ukuran == 'personal'):
+    harga_pizza += 43637
+elif (menu == 'super supreme') and (crust == 'pan') and (ukuran == 'regular'):
+    harga_pizza += 100910
+elif (menu == 'super supreme') and (crust == 'pan') and (ukuran == 'large'):
+    harga_pizza += 132728
+elif (menu == 'super supreme') and (crust == 'stuffedcrust cheese') and (ukuran == 'personal'):
+    harga_pizza += 55455
+elif (menu == 'super supreme') and (crust == 'stuffedcrust cheese') and (ukuran == 'regular'):
+    harga_pizza += 120910
+elif (menu == 'super supreme') and (crust == 'stuffedcrust cheese') and (ukuran == 'large'):
+    harga_pizza += 160000
+elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran == 'personal'):
+    harga_pizza += 52728
+elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran == 'regular'):
+    harga_pizza += 117273
+elif (menu == 'super supreme') and (crust == 'stuffedcrust sausage') and (ukuran == 'large'):
+    harga_pizza += 155455
+elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'personal'):
+    harga_pizza += 57273
+elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'regular'):
+    harga_pizza += 123637
+elif (menu == 'super supreme') and (crust == 'cheesy bites') and (ukuran == 'large'):
+    harga_pizza += 164546
+elif (menu == 'super supreme') and (crust == 'crown crust') and (ukuran == 'personal'):
+    harga_pizza += 55455
+elif (menu == 'super supreme') and (crust == 'crown crust') and (ukuran == 'regular'):
