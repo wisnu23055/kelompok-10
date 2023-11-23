@@ -79,6 +79,16 @@ def jump():
             move()
         else:
             move()
+    if not at_goal():  # Menambahkan kondisi agar tidak bergerak jika sudah di tujuan
+        turn_right()
+        move()
+        turn_right()
+
+while not at_goal():
+    if front_is_clear():
+        move()
+    else:
+        jump()
 
 # Maze
 
