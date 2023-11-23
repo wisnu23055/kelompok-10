@@ -14,7 +14,6 @@ def step():
     turn_right()
     move()
     turn_left()
-
 step()
 step()
 step()
