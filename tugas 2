@@ -86,7 +86,7 @@ def pass_wall():
         count_wall-=1
     turn_left()
 
- while at_goal()==false:
+ while at_goal()==False:
     if wall_in_front():
         pass_wall()
     else :
