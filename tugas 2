@@ -24,7 +24,7 @@ step()
 
 # Hurdle 2
 
-def turn_rights():
+def turn_right():
    turn_left()
    turn_left()
    turn_left()
@@ -34,9 +34,9 @@ def lompat():
    move()
    turn_left() 
    move()
-   turn_rights()
+   turn_right()
    move()
-   turn_rights()
+   turn_right()
    move()
    turn_left()
     
