@@ -71,6 +71,15 @@ def turn_right():
     for i in range(3):  # Mengubah menjadi perulangan yang tepat untuk membuat putaran ke kanan
         turn_left()
 
+def jump():
+    turn_left()
+    while wall_on_right() and not at_goal():  # Menambahkan kondisi agar berhenti jika sudah di tujuan
+        if wall_in_front():
+            turn_left()
+            move()
+        else:
+            move()
+
 # Maze
 
 def turn_right():
