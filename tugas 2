@@ -9,7 +9,7 @@ def step():
     turn_left()
     move()
 
-    tur_right()
+    turn_right()
     move()
     turn_right()
     move()
@@ -21,4 +21,26 @@ step()
 step()
 step()
 
+
 # Hurdle 2
+
+def turn_rights():
+   turn_left()
+   turn_left()
+   turn_left()
+
+
+def lompat():
+   move()
+   turn_left() 
+   move()
+   turn_rights()
+   move()
+   turn_rights()
+   move()
+   turn_left()
+    
+while at_goal()==False:
+    lompat()
+
+# Hurdle 3
